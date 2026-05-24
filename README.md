@@ -1,5 +1,12 @@
 #  AhorroPeru - Sistema de Gestión de Préstamos
 
+![Java](https://img.shields.io/badge/Java-11-orange?style=for-the-badge&logo=java)
+![Tomcat](https://img.shields.io/badge/Tomcat-9-yellow?style=for-the-badge&logo=apache-tomcat)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
+![Maven](https://img.shields.io/badge/Maven-3.x-red?style=for-the-badge&logo=apache-maven)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?style=for-the-badge&logo=bootstrap)
+![Estado](https://img.shields.io/badge/Estado-Completado-green?style=for-the-badge)
+
 Sistema web desarrollado en Java para la gestión de préstamos de la Cooperativa de Ahorro y Crédito **AHORROPERU**. Permite administrar asociados, solicitudes de préstamo, aprobaciones, generación automática de cuotas y reportes.
 
 ---
@@ -172,5 +179,4 @@ Donde: `TasaMensual = TasaAnual ÷ 12 ÷ 100`
 
 ##  Autor
 
-Desarrollado por Seiki Cerna Leon como proyecto final del curso **Desarrollo de Software I** — SENATI  
-
+Desarrollado por Seiki Cerna como proyecto final del curso **Desarrollo de Software I** — SENATI  
